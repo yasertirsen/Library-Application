@@ -1,7 +1,7 @@
 /**************************************************************/
 /*                                                            */
 /*   Program to demonstrate the implmentation of a            */
-/*   linked list of numbers.								  */
+/*   linked list of books in a library.				      */
 /*                                                            */
 /**************************************************************/
 #define _CRT_SECURE_NO_WARNINGS
